@@ -16,13 +16,13 @@ Built for learning, experimenting, and comparing how different sorting algorithm
   - Insertion Sort
   - Merge Sort
   - Quick Sort
-  - Heap Sort (if added)
-  - Radix / Shell Sort (optional advanced)  
+  - Heap Sort 
+  - Radix 
 - 🆚 **Dual Comparison Mode** → Run and visualize **two algorithms at the same time** to compare their performance side by side  
 
 ---
 
 ## 🛠 Tech Stack  
 - **Frontend:** React  
-- **Styling:** CSS / TailwindCSS (update if you used one)  
+- **Styling:** CSS / TailwindCSS   
 - **Visualization:** DOM animations / Canvas rendering  
