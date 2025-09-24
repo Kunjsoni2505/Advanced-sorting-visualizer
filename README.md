@@ -1,12 +1,28 @@
-# React + Vite
+# 🔢 Advanced Sorting Visualizer  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An interactive **React application** that visualizes advanced sorting algorithms in real-time.  
+Built for learning, experimenting, and comparing how different sorting algorithms work.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features  
+- 🎨 Clean and responsive UI built with React  
+- ⚡ Real-time visualization of sorting algorithms  
+- 🎛 Adjustable array size and sorting speed  
+- 🔀 Random array generation  
+- 🧩 Multiple algorithms supported:
+  - Bubble Sort
+  - Selection Sort
+  - Insertion Sort
+  - Merge Sort
+  - Quick Sort
+  - Heap Sort (if added)
+  - Radix / Shell Sort (optional advanced)  
+- 🆚 **Dual Comparison Mode** → Run and visualize **two algorithms at the same time** to compare their performance side by side  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠 Tech Stack  
+- **Frontend:** React  
+- **Styling:** CSS / TailwindCSS (update if you used one)  
+- **Visualization:** DOM animations / Canvas rendering  
